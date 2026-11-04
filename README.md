@@ -1,55 +1,73 @@
-![DeepClearSky — Beyond the Horizon](./assets/dcs-hero.png)
+![DeepClearSky — Beyond the Horizon](assets/dcs-campus-hero.png)
 
 <p align="center">
-  <strong>心向晴空，步履不停。</strong><br>
-  <sub>保持谦逊，奔赴更远的地方。</sub>
+  <strong>大学课程学习资料 · 自研工具</strong><br>
+  <sub>从课堂里的理解，到亲手做出的工具。</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dcs-humble/dream">梦想之路</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/dcs-humble?tab=repositories">我的仓库</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/dcs-humble">GitHub 主页</a>
+  <a href="courses/README.md">课程资料</a> &nbsp; / &nbsp;
+  <a href="tools/README.md">工具实验室</a> &nbsp; / &nbsp;
+  <a href="docs/START-HERE.md">使用指南</a> &nbsp; / &nbsp;
+  <a href="ROADMAP.md">建设计划</a>
 </p>
 
-![Stay curious · Keep building · Aim high](./assets/dcs-values.svg)
+![University notes · Personal tools · Learn, build, share](assets/dcs-campus-strip.svg)
 
-## 你好，我是 DCS
+## 这里是 DeepClearSky
 
-你也可以叫我 **DeepClearSky**。
+我是 **DCS**。这里将存放我的大学课程学习资料，以及我研发的一系列工具。
 
-这里记录我的梦想之路：从一个想法出发，一点点探索，一步步实践。
-希望留下的记录，也能给路过的你带来一点帮助。
+把课堂上的知识整理清楚，把实践中的想法做成工具，再把有用的积累分享出来。这是我想持续做的事。
 
-## 我的梦想之路
+<a href="courses/README.md"><img src="assets/dcs-course-card.svg" width="49%" alt="01 课程资料：查看课程总目录"></a>
+<a href="tools/README.md"><img src="assets/dcs-tool-card.svg" width="49%" alt="02 工具实验室：查看自研工具目录"></a>
 
-[![dream — 我的梦想之路，点击进入仓库](./assets/dcs-dream.svg)](https://github.com/dcs-humble/dream)
+## 01 / 课程资料
 
-**[进入 dream →](https://github.com/dcs-humble/dream)**  
-我的梦想之路，希望给来访的各位嘉宾提供帮助！
+按 **学年 → 学期 → 课程** 逐步建立资料库，让平时学习、实验记录与期末复习都有迹可循。
 
-## 接下来，慢慢实现
+| 入口 | 内容 |
+| :--- | :--- |
+| **[课程总目录 →](courses/README.md)** | 按学期查找课程，查看资料整理状态 |
+| [课程整理模板](templates/COURSE.md) | 课程说明、知识框架、笔记、实验与复习清单 |
+| [资料使用指南](docs/START-HERE.md) | 浏览、下载，以及如何找到需要的文件 |
 
-- [ ] 把梦想拆成可以开始的小目标
-- [ ] 记录学习、尝试与收获
-- [ ] 把有用的经验整理出来，分享给更多人
+> **整理状态：** 目录框架已建立，具体课程资料将陆续补充。
+
+## 02 / 工具实验室
+
+存放我研发的工具，记录从需求、实现到迭代的过程。
+
+| 入口 | 内容 |
+| :--- | :--- |
+| **[自研工具目录 →](tools/README.md)** | 按用途浏览工具，查看使用方式和开发状态 |
+| [工具介绍模板](templates/TOOL.md) | 解决什么问题、如何安装、使用示例与常见问题 |
+| [版本记录模板](templates/CHANGELOG.md) | 记录新增功能、改进与修复 |
+
+> **收录状态：** 工具目录已建立，具体项目名称与说明待补充。
+
+## 03 / 建设进度
+
+- [x] 建立课程资料与工具的双入口
+- [x] 准备课程、工具和版本记录模板
+- [ ] 添加第一门课程的资料索引
+- [ ] 添加第一个工具的介绍与使用示例
+- [ ] 随学习和研发进展持续更新
+
+[查看完整建设计划 →](ROADMAP.md)
+
+<details>
+<summary><strong>怎样最快找到需要的内容？</strong></summary>
+
+- 找课程资料：进入 **课程总目录**，按学年和学期定位课程。
+- 找自研工具：进入 **自研工具目录**，优先阅读工具说明和使用示例。
+- 想下载文件：参考 **使用指南** 中的单文件和整库下载方法。
+- 想反馈问题：附上课程或工具名称、具体位置与问题描述，便于核对。
+
+</details>
 
 <br>
 
-![Stay humble. Reach further. — 保持谦逊，奔赴更远](./assets/dcs-footer.svg)
+![Stay humble. Reach further.](assets/dcs-campus-footer.svg)
 
-<!--
-**dcs-humble/dcs-humble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
