@@ -1,42 +1,9 @@
 # 环境工程概论
 
-[← 课程总目录](README.md) · [资料使用指南](../docs/START-HERE.md)
+资料已经整理为实际课程文件夹。
 
-**西南交通大学 · 道路桥梁与渡河工程 · 大三上**
+**[进入课程资料文件夹 →](../%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%AF%E5%A2%83%E5%B7%A5%E7%A8%8B%E6%A6%82%E8%AE%BA/)**
 
-包含 **6 份文件**，按内容哈希去除同课程重复副本。课程及学期按提供的压缩包归类。
-
-## 下载完整资料
-
-**[下载本课程 ZIP（64.1 MiB） →](https://github.com/dcs-humble/dcs-humble/releases/download/courses-2026-11-04/y3s1-environmental-engineering.zip)**
-
-解压后按下方分类查找。下载包内附 README.md 与 MANIFEST.csv。
-
-## 内容概览
-
-| 分类 | 文件数 |
-| :--- | ---: |
-| 参考资料 | 6 |
-
-## 文件清单
-
-下列路径位于课程 ZIP 内。原文件名保留；同名不同内容的文件追加短哈希。
-
-| 路径 | 大小 |
-| :--- | ---: |
-| 参考资料/环境工程概论第一章.pdf | 9.6 MiB |
-| 参考资料/环境工程概论第三章.pdf | 14.3 MiB |
-| 参考资料/环境工程概论第二章.pdf | 10.8 MiB |
-| 参考资料/环境工程概论第五章.pdf | 9.3 MiB |
-| 参考资料/环境工程概论第六章.pdf | 9.6 MiB |
-| 参考资料/环境工程概论第四章.pdf | 13.8 MiB |
-
-## 下载校验
-
-整个 ZIP 的 SHA256：
-
-    151e882eb3c0727c3eeb057494b256d322e9eeaf571ff4ab1a05ef5c9ff8f1b4
-
-## 资料说明
-
-资料可能跨不同教学年份，请核对当前教学安排。个人标识、成绩、视频及个人设计成品等待核对材料未收录；保留的课程设计资料主要为指导与参考材料。
+- 学期：大三上
+- 收录资料：6 份
+- [完整课程 ZIP 备份](https://github.com/dcs-humble/dcs-humble/releases/download/courses-2026-11-04/y3s1-environmental-engineering.zip)

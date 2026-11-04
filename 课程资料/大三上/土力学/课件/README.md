@@ -1,0 +1,16 @@
+# 土力学 · 课件
+
+[← 返回课程目录](../README.md)
+
+| 文件 | 大小 | 页码说明 |
+| :--- | ---: | :--- |
+| [土力学与基础工程A－02土的渗透性及渗流.pptx](%E5%9C%9F%E5%8A%9B%E5%AD%A6%E4%B8%8E%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8BA%EF%BC%8D02%E5%9C%9F%E7%9A%84%E6%B8%97%E9%80%8F%E6%80%A7%E5%8F%8A%E6%B8%97%E6%B5%81.pptx) | 6.0 MiB | — |
+| [土力学与基础工程A－05土的抗剪强度.pptx](%E5%9C%9F%E5%8A%9B%E5%AD%A6%E4%B8%8E%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8BA%EF%BC%8D05%E5%9C%9F%E7%9A%84%E6%8A%97%E5%89%AA%E5%BC%BA%E5%BA%A6.pptx) | 6.5 MiB | — |
+| [土力学与基础工程A－06天然地基承载力.pptx](%E5%9C%9F%E5%8A%9B%E5%AD%A6%E4%B8%8E%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8BA%EF%BC%8D06%E5%A4%A9%E7%84%B6%E5%9C%B0%E5%9F%BA%E6%89%BF%E8%BD%BD%E5%8A%9B.pptx) | 2.1 MiB | — |
+| [土力学与基础工程A－07土压力.pptx](%E5%9C%9F%E5%8A%9B%E5%AD%A6%E4%B8%8E%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8BA%EF%BC%8D07%E5%9C%9F%E5%8E%8B%E5%8A%9B.pptx) | 11.9 MiB | — |
+| [土力学与基础工程A－08地基基础的设计要求.pptx](%E5%9C%9F%E5%8A%9B%E5%AD%A6%E4%B8%8E%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8BA%EF%BC%8D08%E5%9C%B0%E5%9F%BA%E5%9F%BA%E7%A1%80%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%A6%81%E6%B1%82.pptx) | 3.1 MiB | — |
+| [土力学与基础工程A－09简单浅埋基础.pptx](%E5%9C%9F%E5%8A%9B%E5%AD%A6%E4%B8%8E%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8BA%EF%BC%8D09%E7%AE%80%E5%8D%95%E6%B5%85%E5%9F%8B%E5%9F%BA%E7%A1%80.pptx) | 3.0 MiB | — |
+| [土力学与基础工程A－10桩基础.pptx](%E5%9C%9F%E5%8A%9B%E5%AD%A6%E4%B8%8E%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8BA%EF%BC%8D10%E6%A1%A9%E5%9F%BA%E7%A1%80.pptx) | 13.4 MiB | — |
+| [土力学－0绪论.ppt](%E5%9C%9F%E5%8A%9B%E5%AD%A6%EF%BC%8D0%E7%BB%AA%E8%AE%BA.ppt) | 13.9 MiB | — |
+| [土力学－1土的物理性质.ppt](%E5%9C%9F%E5%8A%9B%E5%AD%A6%EF%BC%8D1%E5%9C%9F%E7%9A%84%E7%89%A9%E7%90%86%E6%80%A7%E8%B4%A8.ppt) | 33.5 MiB | — |
+| [土力学－4土的压缩性及地基沉降.ppt](%E5%9C%9F%E5%8A%9B%E5%AD%A6%EF%BC%8D4%E5%9C%9F%E7%9A%84%E5%8E%8B%E7%BC%A9%E6%80%A7%E5%8F%8A%E5%9C%B0%E5%9F%BA%E6%B2%89%E9%99%8D.ppt) | 7.8 MiB | — |

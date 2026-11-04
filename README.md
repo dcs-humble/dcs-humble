@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="courses/README.md">课程资料</a> &nbsp; / &nbsp;
+  <a href="%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/README.md">课程资料</a> &nbsp; / &nbsp;
   <a href="tools/README.md">工具实验室</a> &nbsp; / &nbsp;
   <a href="docs/START-HERE.md">使用指南</a> &nbsp; / &nbsp;
   <a href="ROADMAP.md">建设计划</a>
@@ -20,7 +20,7 @@
 
 把课堂上的知识整理清楚，把实践中的想法做成工具，再把有用的积累分享出来。这是我想持续做的事。
 
-<a href="courses/README.md"><img src="assets/dcs-course-card.svg" width="49%" alt="01 课程资料：查看课程总目录"></a>
+<a href="%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/README.md"><img src="assets/dcs-course-card.svg" width="49%" alt="01 课程资料：查看课程总目录"></a>
 <a href="tools/README.md"><img src="assets/dcs-tool-card.svg" width="49%" alt="02 工具实验室：查看自研工具目录"></a>
 
 ## 01 / 课程资料
@@ -29,13 +29,15 @@
 
 | 入口 | 内容 |
 | :--- | :--- |
-| **[课程总目录 →](courses/README.md)** | 按学期查找课程，查看资料整理状态 |
+| **[课程总目录 →](%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/README.md)** | 按学期进入课程文件夹，直接查看课件、习题、实验与复习资料 |
 | [课程整理模板](templates/COURSE.md) | 课程说明、知识框架、笔记、实验与复习清单 |
 | [资料使用指南](docs/START-HERE.md) | 浏览、下载，以及如何找到需要的文件 |
 
-> **首批收录：大二下 7 门 · 大三上 7 门 · 共 395 份资料。**
+> **14 门课程 · 394 份原始资料 · 399 个实际课程文件。**
 >
-> [浏览课程总目录 →](courses/README.md) · [完整资料下载区 →](https://github.com/dcs-humble/dcs-humble/releases/tag/courses-2026-11-04)
+> 资料已全部展开为实际文件夹；3 份超大 PDF 按页拆为 8 份，保留原始清晰度。
+>
+> [浏览课程总目录 →](%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/README.md) · [整包备份下载区 →](https://github.com/dcs-humble/dcs-humble/releases/tag/courses-2026-11-04)
 
 | 学期 | 已整理课程 |
 | :--- | :--- |
@@ -69,7 +71,7 @@
 
 - 找课程资料：进入 **课程总目录**，按学年和学期定位课程。
 - 找自研工具：进入 **自研工具目录**，优先阅读工具说明和使用示例。
-- 想下载文件：进入课程下载区获取对应 ZIP，具体见 **使用指南**。
+- 想下载文件：进入课程文件夹查看和下载单个文件；也可在课程页面获取整包备份。
 - 想反馈问题：附上课程或工具名称、具体位置与问题描述，便于核对。
 
 </details>
