@@ -1,0 +1,37 @@
+name: 资料问题反馈
+description: 文件打不开、分类错误、链接失效或内容需要核对
+title: "[资料问题] "
+body:
+  - type: input
+    id: course
+    attributes:
+      label: 学期与课程
+      placeholder: 大三上 / 土力学
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: 文件链接或路径
+      placeholder: 请粘贴仓库中的文件链接
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 问题类型
+      options:
+        - 无法下载或打开
+        - 分类或名称错误
+        - 内容或版本问题
+        - 资料归属或个人信息问题
+        - 其他问题
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 具体情况
+      description: 请说明遇到的问题、预期结果，以及使用的设备或软件。请勿填写他人的个人信息。
+    validations:
+      required: true

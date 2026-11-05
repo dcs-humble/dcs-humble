@@ -1,6 +1,6 @@
 # 课程资料
 
-[← 返回首页](../README.md) · [下载帮助](../docs/START-HERE.md)
+[← 返回首页](../README.md) · [找文件](../docs/FILES.md) · [下载帮助](../docs/START-HERE.md) · [补充资料](../CONTRIBUTING.md)
 
 | 学期 | 课程 | 文件 | 入口 |
 | :--- | ---: | ---: | :--- |

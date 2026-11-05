@@ -1,0 +1,24 @@
+name: 补充资料或提出需求
+description: 提交课程资料线索，或说明希望补充的内容
+title: "[资料补充] "
+body:
+  - type: input
+    id: course
+    attributes:
+      label: 学期与课程
+    validations:
+      required: true
+  - type: textarea
+    id: materials
+    attributes:
+      label: 资料名称与用途
+      description: 说明准备补充的资料，或当前缺少的内容；不必在此直接上传文件。
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 来源与公开范围
+      description: 如已有资料，请说明来源及是否适合公开分享；仅提出需求可填写“待寻找”。请勿填写私有访问凭据。
+    validations:
+      required: true
