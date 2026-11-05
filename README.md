@@ -2,7 +2,9 @@
 
 <p align="center"><strong>西南交通大学 · 道路桥梁与渡河工程</strong><br><sub>课程资料与自研工具 · DCS</sub></p>
 
-<p align="center"><a href="#大三上">大三上</a>　·　<a href="#大二下">大二下</a>　·　<a href="tools/README.md">自研工具</a></p>
+<p align="center"><a href="%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E5%A4%A7%E4%B8%89%E4%B8%8A/"><img src="assets/dcs-term-y3s1.svg" width="48%" alt="大三上课程资料"></a> <a href="%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E5%A4%A7%E4%BA%8C%E4%B8%8B/"><img src="assets/dcs-term-y2s2.svg" width="48%" alt="大二下课程资料"></a></p>
+
+[自研工具](tools/README.md) · [下载帮助](docs/START-HERE.md) · [反馈问题](https://github.com/dcs-humble/dcs-humble/issues)
 
 **找资料，直接点下面的课程。** 平时学习选「课件」，考前准备选「复习」。
 
